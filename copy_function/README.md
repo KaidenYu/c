@@ -6,14 +6,12 @@
 
 
 - Build & run
-```
-gcc main.c
-./a.out
-```
-or
-```
-clang main.c
-./a.out
-```
-
-
+  ```
+  gcc main.c
+  ./a.out
+  ```
+  or
+  ```
+  clang main.c
+  ./a.out
+  ```
